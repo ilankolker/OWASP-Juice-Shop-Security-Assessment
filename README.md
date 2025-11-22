@@ -1,4 +1,5 @@
 **OWASP Juice Shop Security Assessment**
+
 This repository contains a security assessment of OWASP Juice Shop, an intentionally vulnerable web application used for penetration-testing practice.
 The focus of this assessment is on SQL Injection (SQLi) and Cross-Site Scripting (XSS) vulnerabilities.
 
